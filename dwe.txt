@@ -1,0 +1,18 @@
+The motivation of our team is to provide the easy & automated solution to the people using Artificial Intelligence & Blockchain Tech in a limited resources & budget without any interference of middle man. Which will reduce the time & cost of hiring any specific individual for a work. As we progress we also have some plans to improve the project & add some additional functionalities to the project.
+
+We are a team of three members working on this project. Each member is working on a specific module/functionality. As a Team lead my Job is to work on the Integration of AI, Blockchain & Backend modules to the Frontend & System Design. The second member is specialized in Artificial Intelligence So he is focusing on Deep Learning module & similarly third member is working on the Blockchain Functionality. The reoles & responsibilities assigned are based on the skillset & expertise of individual.
+
+These days NFT's are on BOOM. People are creating & selling NFT's & earning large amount of money through it. So Basically NFT is an ART which is saved on blockchain & converted into an NFT & We can sell it on any NFT Marketplace. So the problem is that for a person who is not a designer it is difficult to design an image for which we need to hire an designer who can design an image then we can convert it into an NFT. Due to high demand of NFT's these days  the fees for designing an NFT can be costly and confusing. Depending on the designer rate, you could pay art fees. Sometimes fees also can fluctuate due to the volatility in cryptocurrency pricing. Because of that, it's important to take a close look at the costs you'll have to pay to design and sell your NFT to make sure they're worthwhile. Sometimes designers charge more than the price of art, because they think the art would be sold as an NFT for a huge price. By considering above issues we are proposing a automated solution, that will provide NFT to the user, generated through AI.
+
+The Primary Objective of this project is to 
+“provides ease to the people who are not designers or artists, and want to sell NFT's. This project will provide AI Generated arts which user can download & sell on the NFT marketplace like OpenSea, rarrible etc. & also Mint the NFT in a low Gas Fee”
+
+It will remove the need of middle man/designer in the process of creating an NFT Image.
+
+People who had a knowledge of Blockchain world, NFT's wil be benefited with this project.
+
+We are proposing an automated solution to generate an NFT using Artificial Intelligence. Their is currently no existing system like this available.
+
+Actually we are focuing on improving the project as well by adding additional functionalities during the project development. So for Developing the very basic MVP (Minimum Viable Product), It may take max 3 months.
+
+No
